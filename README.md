@@ -30,7 +30,7 @@ Using Android platform NDK to build ARM android busybox
        [ ] swapoff 
 
 
-   <b>Case 4</b>
+   <b>Case 4</b>  
    miscutils/lib.a(time.o): In function `run_command':
    time.c:(.text.run_command+0x80): undefined reference to `wait3'
    collect2: error: ld returned 1 exit status
